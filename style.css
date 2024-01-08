@@ -697,3 +697,34 @@ section .main .button:hover i {
     width: 20px;
     margin: 5px 5px;
 }
+
+/* Footer */
+
+.footer_main{
+    display: flex;
+    justify-content: space-around;
+    background-color: #c72092;
+}
+
+.footer_main a{
+    text-decoration: none;
+}
+
+.footer_main li{
+    list-style: none;
+}
+
+.footer_main .footer_item{
+    padding: 2rem 1rem;
+}
+
+.footer_main .footer_item .footer-title-asset{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.footer_main .footer_item .item-collapsable li a{
+    text-decoration: none;
+    color: white;
+}
