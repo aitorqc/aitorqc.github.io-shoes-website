@@ -16,6 +16,7 @@ Sección de Contacto: La página incluye una sección de contacto con un formula
 La página web modelo de Joma ha sido desarrollada utilizando las siguientes tecnologías:
 
 HTML5 y CSS3: Para la estructura y el estilo de la página.
+JavaScript: Para mejorar la interactividad del usuario y agregar funcionalidades dinámicas.
 
 ## Url Proyecto
 
