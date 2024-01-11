@@ -23,6 +23,6 @@ JavaScript: Para mejorar la interactividad del usuario y agregar funcionalidades
 [WEB JOMA](https://aitorqc.github.io/shoes-website)
 
 ## Capturas
-![Inicio](https://github.com/aitorqc/shoes-website/tree/main/assets/capturas/inicio.png)
+![Inicio](https://raw.githubusercontent.com/aitorqc/shoes-website/main/assets/capturas/inicio.png)
 
-![Formulario](https://github.com/aitorqc/shoes-website/tree/main/assets/capturas/formulario.png)
+![Formulario](https://raw.githubusercontent.com/aitorqc/shoes-website/main/assets/capturas/formulario.png)
