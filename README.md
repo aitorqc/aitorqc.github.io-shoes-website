@@ -20,7 +20,7 @@ JavaScript: Para mejorar la interactividad del usuario y agregar funcionalidades
 
 ## Url Proyecto
 
-[WEB JOMA](https://aitorqc.github.io/shoes-website)
+[WEB JOMA](https://aitorqc.github.io/aitorqc.github.io-shoes-website/)
 
 ## Capturas
 ![Inicio](https://raw.githubusercontent.com/aitorqc/shoes-website/main/assets/capturas/inicio.png)
